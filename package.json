@@ -1,0 +1,20 @@
+{
+  "name": "gh-node-bot-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemang Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.2.0",
+    "child_process": "^1.0.2",
+    "github": "^9.2.0",
+    "node-github-webhook": "^1.0.5",
+    "octonode": "^0.7.10",
+    "suppose": "^0.6.1",
+    "sys": "0.0.1"
+  }
+}
